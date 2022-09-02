@@ -1,0 +1,4 @@
+outs:
+- md5: bf0e29180dad5df879904bd9e8a4c8b0
+  size: 469248
+  path: test_2_Churn_copy_2.csv
