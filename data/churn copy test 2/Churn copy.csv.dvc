@@ -1,0 +1,4 @@
+outs:
+- md5: 1ff99388e05051c8e5a5e84a26ee5df1
+  size: 469248
+  path: Churn copy.csv
