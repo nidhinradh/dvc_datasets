@@ -1,0 +1,4 @@
+outs:
+- md5: 69cfb6cdb4dbcd7d9ce02f23da039557
+  size: 469248
+  path: churn_1_Churn_copy_1.csv
